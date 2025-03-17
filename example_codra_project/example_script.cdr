@@ -1,0 +1,21 @@
+package.codra.example.project;
+
+imports {
+    import.console;
+    import.debug;
+    imports.system;
+    import.mcbot;
+    import.app;
+    import.codra.libs;
+    import.codra.lib;
+}
+crycle{if/while true {
+    start {
+    mcbot.print.on.screen("bolean")
+    mcbot.hide.all.sprites
+    mcbot.load.acses;
+    mcbot.print.on.screen(getElementOfList(examplelist:3))
+}
+
+}
+}

@@ -1,0 +1,16 @@
+controll sourse : (lpeg.codra){ 
+controll theme : gui 
+flexDEG : 15 = //установка масива flexDEG
+filetype = [codra: flex file sourse controll]
+DEG == 15dg = [  
+    flexDX [
+    Flex: [margin:martin 6 mcdata]
+    plx = 15htxDg
+       flex in DEG = degration - 5
+         in deg degrate 19htxDg
+    deformation = varaible deform
+
+   ]
+ ]
+}
+
